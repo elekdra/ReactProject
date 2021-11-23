@@ -1,0 +1,30 @@
+[
+  {
+    "name": "file1",
+    "training": "file management",
+    "version": "1.0",
+    "company": "XyZ",
+    "fileUrl": "D:"
+  },
+  {
+    "name": "file2",
+    "training": "process management",
+    "version": "1.2",
+    "company": "LmN",
+    "fileUrl": "D:as"
+  },
+  {
+    "name": "file3",
+    "training": "device management",
+    "version": "1.9",
+    "company": "PqR",
+    "fileUrl": "D:assignm"
+  },
+  {
+    "name": "file4",
+    "training": "file management",
+    "version": "1.7",
+    "company": "AbC",
+    "fileUrl": "D:assign"
+  }
+]
